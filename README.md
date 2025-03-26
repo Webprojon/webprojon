@@ -13,7 +13,7 @@
 * 🤝  I'm open to collaborate on interesting, fun, cool projects
 * 👨‍💻  I Love Coding | And Open for Job Opportunities
 
-[![Webprojon's GitHub status ](https://github-readme-stats.vercel.app/api?username=Webprojon&show_icons=true&theme=dark)](https://github.com/Webprojon)
+<!-- [![Webprojon's GitHub status ](https://github-readme-stats.vercel.app/api?username=Webprojon&show_icons=true&theme=dark)](https://github.com/Webprojon) -->
 
 ## Languages and Tools
 
@@ -22,4 +22,4 @@
 
  ## Contact Me
  
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/Reacterman) [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=#1DA1F2)](https://www.linkedin.com/in/tokhirjon-khasanov/)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/fronterman) [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=#1DA1F2)](https://www.linkedin.com/in/tokhirjon-khasanov/)
