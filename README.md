@@ -9,7 +9,7 @@
 
 * 🌍  I live in Warsaw, Poland
 * ✉️  You can contact me at [tokhirjonkhasanov@gmail.com](mailto:tokhirjonkhasanov@gmail.com)
-* 🧠  Javascript & Typescript & React.js & Next.js
+* 🧠  Javascript & Typescript & React.js & Next.js & Node.js & Express.js & MongoDB
 * 🤝  I'm open to collaborate on interesting, fun, cool projects
 * 👨‍💻  I Love Coding | And Open for Job Opportunities
 
@@ -22,4 +22,4 @@
 
  ## Contact Me
  
-[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/fronterman) [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=#1DA1F2)](https://www.linkedin.com/in/tokhirjon-khasanov/)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=#1DA1F2)](https://t.me/fullstack777) [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=#1DA1F2)](https://www.linkedin.com/in/tokhirjon-khasanov/)
