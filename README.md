@@ -31,14 +31,16 @@
 
 Here are some of my featured projects:
 
+- 🔗 [**Resumind** – Analyze your resume](https://ai-pushed-resume-analyzer.vercel.app/)  
+  `React.js` · `Puter.js` · `Tailwind CSS` · `OpenAI API`
+  
+- 🔗 [**Real Estate** – Find best places]([https://www.eatpizza.uz](https://estate-house.vercel.app/))  
+  `React.js` · `Node.js` · `Context API` · `Prisma` · `SCSS` · `MongoDB`
+  
 - 🔗 [**Eventura** – Event Management App](https://eventura-hub.vercel.app)  
   `React.js` · `Node.js` · `Express` · `MongoDB` · `Tailwind` · `Framer Motion`
   
-- 🔗 [**Eat Pizza** – PWA for pizza ordering](https://www.eatpizza.uz)  
-  `Next.js` · `Firebase` · `Redux` · `Prisma` · `Tailwind` · `PostgreSQL`
 
-- 🔗 [**rmtdev** – Remote Jobs Board](https://github.com/Webprojon/rmtdev)  
-  `Next.js` · `React Query` · `Tailwind CSS` · `Remote Jobs API`
 
 ---
 
