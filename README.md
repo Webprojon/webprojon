@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tokhirjon Khasanov</h1>
+<h1 align="center">Hi, I'm Tokhirjon Khasanov</h1>
 <h3 align="center">Fullstack Developer | Based in Warsaw, Poland</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 -  I hold a **Bachelor's degree in Computer Engineering** from **Warsaw Management University**
 -  Passionate about **Frontend Development**, UI/UX and building **responsive PWAs**
