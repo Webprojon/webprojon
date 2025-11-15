@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Tokhirjon Khasanov</h1>
-<h3 align="center">Fullstack Developer | Based in Warsaw, Poland</h3>
+<h3 align="center">Web Developer | Based in Warsaw, Poland</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=1FD655&center=true&vCenter=true&width=700&lines=Fullstack+Developer;JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;Node.js+%2F+Express+%2F+MongoDB+%2F+Prisma+ORM+%2F+Firebase;Always+Learning+and+Building;Open+to+Job+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=1FD655&center=true&vCenter=true&width=700&lines=Web+Developer;JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;Node.js+%2F+Express+%2F+MongoDB+%2F+Prisma+ORM+%2F+Firebase;Always+Learning+and+Building;Open+to+Job+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 
--  Passionate about **Frontend Development**, UI/UX and building **responsive PWAs**
+-  Passionate about **Web Development**, UI/UX and building **responsive PWAs**
 -  Constantly improving my skills in **JavaScript**, **TypeScript**, **React**, **Next.js**, and **Node.js**
 -  Reach me at: [tokhirjonkhasanov@gmail.com](mailto:tokhirjonkhasanov@gmail.com)
 
@@ -17,28 +17,7 @@
 
 ##  Tech Stack & Tools
 
-<div align="center">
-  
 ![skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,next,nodejs,express,postgres,mongodb,prisma,git,github,figma,postman&theme=light)
-
-</div>
-
----
-
-##  Projects
-
-Here are some of my featured projects:
-
-- 🔗 [**Resumind** – Analyze your resume](https://ai-pushed-resume-analyzer.vercel.app/)  
-  `React.js` · `Puter.js` · `Tailwind CSS` · `OpenAI API`
-  
-- 🔗 [**Real Estate** – Find best places]([https://www.eatpizza.uz](https://estate-house.vercel.app/))  
-  `React.js` · `Node.js` · `Context API` · `Prisma` · `SCSS` · `MongoDB`
-  
-- 🔗 [**Eventura** – Event Management App](https://eventura-hub.vercel.app)  
-  `React.js` · `Node.js` · `Express` · `MongoDB` · `Tailwind` · `Framer Motion`
-  
-
 
 ---
 
@@ -59,7 +38,7 @@ Here are some of my featured projects:
 ---
 
 <!-- 
-📈 GitHub Stats (optional)
+📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Webprojon&show_icons=true&theme=react&hide_border=true)
 -->
