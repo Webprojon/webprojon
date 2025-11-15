@@ -9,10 +9,8 @@
 
 ## About Me
 
--  I hold a **Bachelor's degree in Computer Engineering** from **Warsaw Management University**
 -  Passionate about **Frontend Development**, UI/UX and building **responsive PWAs**
 -  Constantly improving my skills in **JavaScript**, **TypeScript**, **React**, **Next.js**, and **Node.js**
--  Open to **collaborations**, **internships**, and **full-time job opportunities**
 -  Reach me at: [tokhirjonkhasanov@gmail.com](mailto:tokhirjonkhasanov@gmail.com)
 
 ---
