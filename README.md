@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Tokhirjon Khasanov, a  Software Engineer</h1>
 
-##  Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/tokhirjon-khasanov/">
     <img src="https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
