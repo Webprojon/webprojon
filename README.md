@@ -1,11 +1,4 @@
-<h1 align="center">Hi, I'm Tokhirjon Khasanov</h1>
-<h3 align="center">Software Engineer | Based in Warsaw, Poland</h3>
-
-## About Me
-
--  Passionate about **Web Development**, UI/UX and building **responsive PWAs**
--  Constantly improving my skills in **JavaScript**, **TypeScript**, **React**, **Next.js**, and **Node.js**
--  Reach me at: [tokhirjonkhasanov@gmail.com](mailto:tokhirjonkhasanov@gmail.com)
+<h1 align="center">Hi, I'm Tokhirjon Khasanov, a  Software Engineer</h1>
 
 ##  Let's Connect
 
